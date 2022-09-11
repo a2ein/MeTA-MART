@@ -1,6 +1,8 @@
 let menu = document.querySelector('#menu-bars');
 let navbar = document.querySelector('.navbar');
 
+<script type="text/javascript"> window.$crisp=[];window.CRISP_WEBSITE_ID="546ccb00-8351-4f4c-8bb9-3111cc2f0e73";(function(){ d=document;s=d.createElement("script"); s.src="https://client.crisp.chat/l.js"; s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})(); </script>
+
 menu.onclick = () =>{
   menu.classList.toggle('fa-times');
   navbar.classList.toggle('active');
